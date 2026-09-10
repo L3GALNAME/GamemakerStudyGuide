@@ -5,7 +5,5 @@
     {"name":"Rooms","order":1,"path":"folders/Rooms.yy",},
     {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
   ],
-  "ResourceOrderSettings":[
-    {"name":"fnt_notoSansJP","order":4,"path":"fonts/fnt_notoSansJP/fnt_notoSansJP.yy",},
-  ],
+  "ResourceOrderSettings":[],
 }
