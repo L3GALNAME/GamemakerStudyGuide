@@ -11,6 +11,7 @@
   "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -24,11 +25,13 @@
   },
   "name":"SueprCoolStudyGuide",
   "resources":[
+    {"id":{"name":"anim_curves","path":"animcurves/anim_curves/anim_curves.yy",},},
     {"id":{"name":"fnt_notoSansJP","path":"fonts/fnt_notoSansJP/fnt_notoSansJP.yy",},},
     {"id":{"name":"obj_handler","path":"objects/obj_handler/obj_handler.yy",},},
     {"id":{"name":"obj_splashScreen","path":"objects/obj_splashScreen/obj_splashScreen.yy",},},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
     {"id":{"name":"rm_splash","path":"rooms/rm_splash/rm_splash.yy",},},
+    {"id":{"name":"spr_menuBox","path":"sprites/spr_menuBox/spr_menuBox.yy",},},
     {"id":{"name":"spr_pixel","path":"sprites/spr_pixel/spr_pixel.yy",},},
   ],
   "resourceType":"GMProject",
