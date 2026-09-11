@@ -5,5 +5,8 @@
     {"name":"Rooms","order":1,"path":"folders/Rooms.yy",},
     {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"rm_splash","order":1,"path":"rooms/rm_splash/rm_splash.yy",},
+  ],
 }

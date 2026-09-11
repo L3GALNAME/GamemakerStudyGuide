@@ -1,1 +1,1 @@
-draw_text(0, 0, "The quick brown fox jumped over the lazy dog! か");
+//draw_text(0, 0, "The quick brown fox jumped over the lazy dog! か");

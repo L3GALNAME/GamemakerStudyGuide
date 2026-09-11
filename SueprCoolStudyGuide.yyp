@@ -26,12 +26,16 @@
   "resources":[
     {"id":{"name":"fnt_notoSansJP","path":"fonts/fnt_notoSansJP/fnt_notoSansJP.yy",},},
     {"id":{"name":"obj_handler","path":"objects/obj_handler/obj_handler.yy",},},
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
+    {"id":{"name":"rm_splash","path":"rooms/rm_splash/rm_splash.yy",},},
+    {"id":{"name":"spr_pixel","path":"sprites/spr_pixel/spr_pixel.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
+    {"roomId":{"name":"rm_splash","path":"rooms/rm_splash/rm_splash.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
