@@ -41,6 +41,22 @@ draw_text_transformed(room_width/2, 48, "Let's get started!", 1.25, 1.25, 0);
 
 draw_set_alpha(1);
 
+
+//draw_text_transformed_colour(room_width/2 - 2, 180 + 2, "Pick Up from Last Time", 0.35, 0.35, 0, c_black, c_black, c_black, c_black, 1);
+//draw_text_transformed(room_width/2, 180, "Pick Up from Last Time", 0.35, 0.35, 0);
+
+if (buttons[0][0]) {
+	draw_sprite_ext(spr_pixel, 0, 150, 180, 660, 35, 0, c_black, 0.65)
+	draw_text_transformed_colour(room_width/2 - 2, 180 + 2, "Pick Up from Last Time", 0.35, 0.35, 0, c_black, c_black, c_black, c_black, 1);
+	draw_text_transformed(room_width/2, 180, "Pick Up from Last Time", 0.35, 0.35, 0);
+}
+
+if (buttons[1][0]) {
+	draw_sprite_ext(spr_pixel, 0, 150, 180, 660, 35, 0, c_black, 0.65)
+	draw_text_transformed_colour(room_width/2 - 2, 180 + 2, "Start another Topic", 0.35, 0.35, 0, c_black, c_black, c_black, c_black, 1);
+	draw_text_transformed(room_width/2, 180, "Start Another Topic", 0.35, 0.35, 0);
+}
+
 // Buttons
 //// Upload
 draw_sprite_ext(spr_splashGlyphs, 0, 156 + 81, 
