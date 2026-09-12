@@ -1,7 +1,7 @@
 {
   "FolderOrderSettings":[
-    {"name":"Fonts","order":5,"path":"folders/Fonts.yy",},
     {"name":"Animation Curves","order":7,"path":"folders/Animation Curves.yy",},
+    {"name":"Fonts","order":5,"path":"folders/Fonts.yy",},
     {"name":"Objects","order":3,"path":"folders/Objects.yy",},
     {"name":"Rooms","order":1,"path":"folders/Rooms.yy",},
     {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
@@ -9,6 +9,8 @@
   "ResourceOrderSettings":[
     {"name":"obj_splashScreen","order":1,"path":"objects/obj_splashScreen/obj_splashScreen.yy",},
     {"name":"rm_splash","order":1,"path":"rooms/rm_splash/rm_splash.yy",},
+    {"name":"spr_colorFlare","order":2,"path":"sprites/spr_colorFlare/spr_colorFlare.yy",},
     {"name":"spr_menuBox","order":1,"path":"sprites/spr_menuBox/spr_menuBox.yy",},
+    {"name":"spr_splashGlyphs","order":3,"path":"sprites/spr_splashGlyphs/spr_splashGlyphs.yy",},
   ],
 }
